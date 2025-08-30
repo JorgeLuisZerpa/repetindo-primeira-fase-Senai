@@ -7,6 +7,6 @@ programa {
     escreva("digite o numero de dias que vocé trabalhou: ")
     leia (dias)
     salario_diario = salario / dias
-    sescreva("seu salario diario deu: R$")  
+    sescreva("seu salario diario deu: R$" + salario_diario)  
   }
 }
