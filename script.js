@@ -14,8 +14,8 @@
 // alert = 18.1
 // alert(idade) 
 
-const amor = "meu primeiro amor"
-alert(amor)
+const tempo = "quer saber sobre o clima?"
+alert(clima)
 
-let amor2 = "meu segundo amor!"
-alert(amor2)
+let clima = "acompanhe o clima aqui!"
+alert(tempo)
